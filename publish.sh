@@ -13,6 +13,7 @@ if test "$username" = "jccdex"; then
     if [ -d "lib" ];then
         rm -r lib
     fi
+    yarn build
     yarn publish --access public
 else
     echo "please login with jccdex account"
