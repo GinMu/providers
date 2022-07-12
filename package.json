@@ -1,5 +1,5 @@
 {
-  "name": "@metamask/providers",
+  "name": "@jccdex/providers",
   "version": "9.0.0",
   "description": "A JavaScript Ethereum provider that connects to the wallet over a stream.",
   "main": "dist/index.js",
